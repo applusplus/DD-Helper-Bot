@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<CheatTable CheatEngineTableVersion="12">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>1</ID>
+      <Description>"Core1"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"DunDefGame.exe"+0121742C</Address>
+      <Offsets>
+        <Offset>208</Offset>
+        <Offset>78</Offset>
+        <Offset>4</Offset>
+        <Offset>60</Offset>
+        <Offset>0</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>4</ID>
+      <Description>"Core2"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"DunDefGame.exe"+0121742C</Address>
+      <Offsets>
+        <Offset>208</Offset>
+        <Offset>78</Offset>
+        <Offset>4</Offset>
+        <Offset>60</Offset>
+        <Offset>4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>5</ID>
+      <Description>"Core3"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"DunDefGame.exe"+0121742C</Address>
+      <Offsets>
+        <Offset>208</Offset>
+        <Offset>78</Offset>
+        <Offset>4</Offset>
+        <Offset>60</Offset>
+        <Offset>8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>6</ID>
+      <Description>"Core4"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"DunDefGame.exe"+0121742C</Address>
+      <Offsets>
+        <Offset>208</Offset>
+        <Offset>78</Offset>
+        <Offset>4</Offset>
+        <Offset>60</Offset>
+        <Offset>C</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>2</ID>
+      <Description>"StartWave"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"DunDefGame.exe"+01201EE0</Address>
+      <Offsets>
+        <Offset>40</Offset>
+        <Offset>10</Offset>
+        <Offset>28</Offset>
+        <Offset>10</Offset>
+        <Offset>1B4</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>3</ID>
+      <Description>"Mana Bank"</Description>
+      <Color>80000008</Color>
+      <VariableType>4 Bytes</VariableType>
+      <Address>"DunDefGame.exe"+012014C8</Address>
+      <Offsets>
+        <Offset>0</Offset>
+        <Offset>34C</Offset>
+        <Offset>28</Offset>
+        <Offset>5E8</Offset>
+        <Offset>418</Offset>
+      </Offsets>
+    </CheatEntry>
+  </CheatEntries>
+  <UserdefinedSymbols/>
+</CheatTable>
